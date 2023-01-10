@@ -14,6 +14,6 @@
     │   └──> Tello_Function_List.md
     └──> README.md
 
-## 1. Tello Test Cases
+## 1. Tello Function List
 
 Details：[Tello_Function_List.md](./docs/Tello_Function_List.md)
