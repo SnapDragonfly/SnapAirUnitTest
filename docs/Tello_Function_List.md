@@ -31,11 +31,11 @@
 
 # 功能列表
 
-手机App连接无人机出现画面  30分钟
+手机App连接无人机出现画面   耗时30分钟
 
-拍照  5分钟
+拍照  耗时5分钟
 
-录影  3分钟
+录影  耗时3分钟
 
 
 ## 飞行方式
@@ -56,7 +56,7 @@
 
 稳定悬停
 
-{#16] Tello Function List for mobile APP, about 20% done
+{#16] Tello Function List for mobile APP, about 30% done
 
 
 ## 2. Python API
