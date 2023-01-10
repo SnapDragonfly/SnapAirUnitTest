@@ -8,12 +8,12 @@
 
 # Document
 
-     .
+    .
     ├──> docs
     │   ├──> images
-    │   └──> Tello_TestCase.md
+    │   └──> Tello_Function_List.md
     └──> README.md
 
 ## 1. Tello Test Cases
 
-Details：[Tello_TestCases.md](./docs/Tello_TestCase.md)
+Details：[Tello_Function_List.md](./docs/Tello_Function_List.md)
