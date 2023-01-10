@@ -11,9 +11,14 @@
     .
     ├──> docs
     │   ├──> images
+    │   ├──> Work_With_Private_Project.md
     │   └──> Tello_Function_List.md
     └──> README.md
 
 ## 1. Tello Function List
 
 Details：[Tello_Function_List.md](./docs/Tello_Function_List.md)
+
+## 2. How to Work with Private GitHub Projects
+
+Details：[Work_With_Private_Project.md](./docs/Work_With_Private_Project.md)
