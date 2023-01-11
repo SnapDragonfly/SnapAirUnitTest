@@ -31,7 +31,7 @@
 
 # Function list
 
-手机App连接无人机出现画面   耗时30分钟
+手机App连接无人机出现画面   Take 30 minutes
 
 拍照  耗时5分钟
 
