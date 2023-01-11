@@ -12,7 +12,7 @@ Download git under compatible operating system
 3. Open the new folder, right click Git Bash Here, and the Git command window will pop up. Then you can perform the relevant git operation.
 
 
-## 2.Apply for project members
+## 2.Apply for project members 
 
 1. Need to get the connection of github project warehouse
 
