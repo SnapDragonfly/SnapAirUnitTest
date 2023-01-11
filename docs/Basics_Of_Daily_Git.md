@@ -88,7 +88,7 @@ id_rsa 文件是私有密钥，id_rsa.pub是公开密钥。
 
 2、在左边点击SSH and GPG keys
 
-3、点击右边的New SSH key 把复制的公钥文件复制进入
+3、点击右边的New SSH key 把复制的公钥文件复制到key选项框
 
 [配置GitHub密钥](https://blog.csdn.net/qq_20663639/article/details/126284892)
 
