@@ -59,7 +59,7 @@ Check if it exists SSH Key
 
 See if there is an id_ Rsa and id_ The rsa.pub file, if it exists, indicates that there is already an SSH key. If not, create a new SSH key.
 
-**3、创建新的ssh key**
+**3、Create a new SSH key**
 
 >$ ssh-keygen -t rsa -C “content neirong”
 >
