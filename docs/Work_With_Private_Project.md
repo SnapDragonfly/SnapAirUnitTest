@@ -12,7 +12,7 @@ Download git under compatible operating system
 3. Open the new folder, right click Git Bash Here, and the Git command window will pop up. Then you can perform the relevant git operation.
 
 
-## 2.Apply for project members 
+## 2.Apply for project members
 
 1. Need to get the connection of github project warehouse
 
@@ -34,7 +34,7 @@ Git needs to control GitHub project through SSH secret key
 
 3. SSH does not need to enter the user name when pushing. If the password is set when configuring SSH key, you need to enter the password. Otherwise, you do not need to enter the password for direct connection.
 
-### 1.GitHub configuration local SSH key
+### 3.1 GitHub configuration local SSH key
 
 **Set the key user and mailbox**
 
@@ -85,7 +85,7 @@ Open the id under the. ssh directory id_rsa.pub file, copy the contents, or dire
 
 After executing the command, a large string of characters of the public key will appear, copy the characters, and then configure the key on GitHub
 
-### 2.Configure the secret key on GitHub
+### 3.2 Configure the secret key on GitHub
 
 **Copy SSH key to GitHub**
 
