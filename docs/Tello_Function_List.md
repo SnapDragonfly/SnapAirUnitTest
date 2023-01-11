@@ -29,34 +29,50 @@
 - FTN_01_002_02: 1080P Recording
 - FTN_01_002_03: 1080I Recording
 
-# Function list
+### 1.3 Save pictures and videos
+    - FTN_Picture saving 01_001_01: 5 megapixel save
 
-手机App连接无人机出现画面   Take 30 minutes
+    - FTN_Video saving 02_001_01: 720p High definition video save
 
-拍照  耗时5分钟
+### 1.4 Direction control
+    - FTN_forward 01_001_01: Fly forward
+    - FTN_backward 02_001_01: Fly backwards
+    - FTN_left 03_001_01: Fly to port
+    - FTN_right 04_001_01: starboard
 
-录影  耗时3分钟
+### 1.5 Height control
+    - FTN_upward 01_001_01: Fly upward
+    - FTN_down 02_001_01: Fly down
 
+### 1.6 Connect the UAV with the mobile APP
 
-## 飞行方式
+### 1.7 Bounce
 
-自动起飞
+### 1.8 Jetting mode
 
-抛飞
+### 1.9 Roll in all directions
 
-全向翻滚
+### 1.10 One-click flight
 
-一键飞远
+### 1.11 One-button Surround mode
 
-一键360模式
+### 1.12 One Button 360 mode
 
-一键环绕模式
+### 1.13 Steady hover
 
-弹跳模式
+### 1.14 One-touch landing
 
+### 1.15 Take 5 megapixel photos
 
-稳定悬停模式
+### 1.16 Shoot 720p HD video
 
+### 1.17 The maximum flight time is about 13 minutes
+
+### 1.18 Charge
+
+### 1.19 Settings
+
+### 1.20 Bluetooth remote control link
 
 ## 2. Python API
 
