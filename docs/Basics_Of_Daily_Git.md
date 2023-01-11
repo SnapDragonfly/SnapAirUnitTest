@@ -17,10 +17,10 @@
 > 
 >    [#51] Add wireless get/post RESTful API
 
-## 1. SSH克隆GitHub项目到本地
+## 2. GitHub SSH Clone project to local
 
 
-SSH克隆项目需要配置SSH key，需要在GitHub上配置SSH key
+SSH cloning project needs to configure SSH key, and SSH key needs to be configured on GitHub
 
 SSH克隆必须是要克隆的项目的拥有者或管理员，且需要先添加 SSH key ，否则无法克隆。
 
