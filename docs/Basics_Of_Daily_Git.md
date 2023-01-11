@@ -77,3 +77,9 @@ Instruction usage:
 
 >[#16] Tello Function List for mobile APP, about 20% done
 
+
+## 8.git push
+
+Push the code currently submitted to the git local repository to a remote branch of the remote host.
+
+## Through the above 8 steps, you can clone the project to the file and submit it to github after local modification
