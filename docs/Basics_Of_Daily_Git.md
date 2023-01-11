@@ -22,43 +22,42 @@
 
 SSH cloning project needs to configure SSH key, and SSH key needs to be configured on GitHub
 
-SSH克隆必须是要克隆的项目的拥有者或管理员，且需要先添加 SSH key ，否则无法克隆。
+SSH clone must be the owner or administrator of the item to be cloned, and SSH key must be added first, otherwise it cannot be cloned.
 
-SSH 在push的时候，是不需要输入用户名的，如果配置SSH key的时候设置了密码，则需要输入密码的，否则直接是不需要输入密码的。
+In SSH push, you do not need to enter the user name. If the password is set when configuring the SSH key, you need to enter the password. Otherwise, you do not need to enter the password directly.
 
-### GitHub配置本地SSH key
+### GitHub configuration local SSH key
 
-**1、设置密钥用户，邮箱**
+**1、User setting key, mailbox**
 
-需要运行命令来配置本地用户名和邮箱，这个可以是真实的，也可以是假的
+You need to run the command to configure the local user name and mailbox. This can be real or fake.
 
->查看配置 
+>View Configuration
 >
 >git config --list
 >
->查看当前状态  
+>View current status 
 >
 >git status 
 >
->配置密钥用户名 
+>Configure key user name
 >
 >git config --global user.name "docker"
 >
->配置密钥邮箱 
+>Configure key mailbox
 >
 >git config --global user.email  "xxx@yeah.net"
 
 
-**2、gitHub ssh密钥配置**
+**2、GitHub SSH Key configuration**
 
-检查是否存在SSH Key
+Check if it exists SSH Key
 
 >cd ~/.ssh 
 >
 >ls
 
-看是否存在 id_rsa 和 id_rsa.pub文件，如果存在，说明已经有SSH Key
-没有的话，创建新的ssh key。
+See if there is an id_ Rsa and id_ The rsa.pub file, if it exists, indicates that there is already an SSH key. If not, create a new SSH key.
 
 **3、创建新的ssh key**
 
