@@ -54,8 +54,12 @@
 
 弹跳模式
 
+<<<<<<< HEAD
 稳定悬停模式
 
+=======
+稳定悬停
+>>>>>>> 998d770e5a7f887a7b71ef48a843ed6ff238075b
 
 {#16] Tello Function List for mobile APP, about 30% done
 
