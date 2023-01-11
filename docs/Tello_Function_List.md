@@ -29,7 +29,7 @@
 - FTN_01_002_02: 1080P Recording
 - FTN_01_002_03: 1080I Recording
 
-# 功能列表
+# Function list
 
 手机App连接无人机出现画面   耗时30分钟
 
