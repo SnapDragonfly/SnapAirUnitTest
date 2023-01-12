@@ -33,6 +33,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -58,6 +60,9 @@ Below is an example for test cases.
 > 2. FAIL: 平台提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 若PASS, 退出平台
+> 2. 若FAIL, 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -83,6 +88,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -109,6 +116,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -134,6 +143,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -159,6 +170,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -183,6 +196,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台登录界面，账号输入框提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -208,6 +223,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台登录界面，密码输入框提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
@@ -233,6 +250,8 @@ Below is an example for test cases.
 > 2. FAIL: 平台登录界面，密码输入框提示除PASS以外信息 或者无提示
 - 测试结果:
 > PASS or FAIL
+- 测试清理：
+> 1. 断开与平台的测试连接
 - 严重程度:
 > 请参考: [Bug Priority & Severity](./Bug_Priority_Severity.md)
 - 耗时时间(分钟): 1 分钟
