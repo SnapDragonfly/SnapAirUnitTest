@@ -19,60 +19,58 @@
 
 ## 1. Mobile App
 
-### 1.1 Photo
+### 1.1 APP connected drone
 
-- FTN_01_001_01: 500W Photo
+- FTN_01_001_01: Drone WiFi link
 
-### 1.2 Video
+### 1.2 Photo
 
-- FTN_01_002_01: 720P Recording
-- FTN_01_002_02: 1080P Recording
-- FTN_01_002_03: 1080I Recording
+- FTN_02_001_01: Take 5 megapixel photos
 
-### 1.3 Save pictures and videos
-    - FTN_Picture saving 01_001_01: 5 megapixel save
+### 1.3 Video
 
-    - FTN_Video saving 02_001_01: 720p High definition video save
+- FTN_03_001_01: Record 720p HD video
 
 ### 1.4 Direction control
-    - FTN_forward 01_001_01: Fly forward
-    - FTN_backward 02_001_01: Fly backwards
-    - FTN_left 03_001_01: Fly to port
-    - FTN_right 04_001_01: starboard
 
-### 1.5 Height control
-    - FTN_upward 01_001_01: Fly upward
-    - FTN_down 02_001_01: Fly down
+- FTN_04_001_01: Fly Upward
 
-### 1.6 Connect the UAV with the mobile APP
+- FTN_04_002_01: Fly Down
 
-### 1.7 Bounce
+- FTN_04_003_01: Fly Forward
 
-### 1.8 Jetting mode
+- FTN_04_004_01: Fly Backwards
 
-### 1.9 Roll in all directions
+- FTN_04_005_01: Fly Left
 
-### 1.10 One-click flight
+- FTN_04_006_01: Fly Right
 
-### 1.11 One-button Surround mode
+### 1.5 Intelligent flight mode
 
-### 1.12 One Button 360 mode
+- FTN_05_001_01: One-button take-off
 
-### 1.13 Steady hover
+- FTN_05_002_01: One-touch landing
 
-### 1.14 One-touch landing
+- FTN_05_003_01: Lift one's hand to land
 
-### 1.15 Take 5 megapixel photos
+- FTN_05_004_01: One-button surround mode
 
-### 1.16 Shoot 720p HD video
+- FTN_05_005_01: Jetting mode
 
-### 1.17 The maximum flight time is about 13 minutes
+- FTN_05_006_01: Omnidirectional roll mode
 
-### 1.18 Charge
+- FTN_05_007_01: One-click fly away mode
 
-### 1.19 Settings
+- FTN_05_008_01: One-button 360 mode
 
-### 1.20 Bluetooth remote control link
+- FTN_05_009_01: Bounce mode
+
+### 1.6 Battery charging
+
+- FTN_06_001_01: UAV with battery charging
+
+- FTN_06_002_01: Battery socket charging
+
 
 ## 2. Python API
 
