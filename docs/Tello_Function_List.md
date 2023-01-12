@@ -67,7 +67,7 @@
 
 ### 1.6 Battery charging
 
-- FTN_01_006_01: UAV with battery charging
+- [FTN_01_006_01](./tests/app/FTN_01_006_01.md): UAV with battery charging
 
 - FTN_01_006_02: Battery socket charging
 
