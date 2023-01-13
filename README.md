@@ -10,20 +10,13 @@
 
     .
     ├──> docs
-    │   ├──> images
     │   ├──> Basics_Of_Daily_Git.md
     │   ├──> Work_With_Private_Project.md
     │   └──> Tello_Function_List.md
     └──> README.md
 
-## 1. Tello Function List
+[1. Tello Function List](./docs/Tello_Function_List.md)
 
-Details：[Tello_Function_List.md](./docs/Tello_Function_List.md)
+[2. How to Work with Private GitHub Projects](./docs/Work_With_Private_Project.md)
 
-## 2. How to Work with Private GitHub Projects
-
-Details：[Work_With_Private_Project.md](./docs/Work_With_Private_Project.md)
-
-## 3. Basics of Daily Git Operation
-
-Details：[Basics_Of_Daily_Git.md](./docs/Basics_Of_Daily_Git.md)
+[3. Basics of Daily Git Operation](./docs/Basics_Of_Daily_Git.md)
