@@ -8,11 +8,16 @@
 
 # Document
 
+
     .
     ├──> docs
     │   ├──> Basics_Of_Daily_Git.md
     │   ├──> Work_With_Private_Project.md
     │   └──> Tello_Function_List.md
+    ├──> tests
+    │   ├──> Bug_Priority_Severity.md
+    │   ├──> Feature_Requirement_Issue.md
+    │   └──> FTN_template.md
     └──> README.md
 
 [1. Tello Function List](./docs/Tello_Function_List.md)
