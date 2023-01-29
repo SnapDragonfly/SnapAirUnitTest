@@ -21,15 +21,15 @@
 
 ### 1.1 APP connected drone
 
-- FTN_01_001_01: Drone WiFi link
+- [FTN_01_001_01](./tests/app/FTN_01_001_01.md): Drone WiFi link
 
 ### 1.2 Photo
 
-- FTN_01_002_01: Take 5 megapixel photos
+- [FTN_01_002_01](./tests/app/FTN_01_002_01.md): Take 5 megapixel photos
 
 ### 1.3 Video
 
-- FTN_01_003_01: Record 720p HD video
+- [FTN_01_003_01](./tests/app/FTN_01_003_01.md): Record 720p HD video
 
 ### 1.4 Direction control
 
@@ -69,7 +69,7 @@
 
 - [FTN_01_006_01](./tests/app/FTN_01_006_01.md): UAV with battery charging
 
-- FTN_01_006_02: Battery socket charging
+- [FTN_01_006_02](./tests/app/FTN_01_006_02.md): Battery socket charging
 
 
 ## 2. Python API
