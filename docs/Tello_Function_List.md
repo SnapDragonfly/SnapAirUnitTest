@@ -45,6 +45,10 @@
 
 - FTN_01_004_06: Fly Right
 
+- FTN_01_004_07: Fly Left rotation
+
+- FTN_01_004_08: Fly Right rotation
+
 ### 1.5 Intelligent flight mode
 
 - FTN_01_005_01: One-button take-off
