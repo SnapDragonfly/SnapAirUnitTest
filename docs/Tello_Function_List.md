@@ -33,41 +33,41 @@
 
 ### 1.4 Direction control
 
-- FTN_01_004_01: Fly Upward
+- [FTN_01_004_01](./tests/app/FTN_01_004_01.md): Fly Upward
 
-- FTN_01_004_02: Fly Down
+- [FTN_01_004_02](./tests/app/FTN_01_004_02.md): Fly Down
 
-- FTN_01_004_03: Fly Forward
+- [FTN_01_004_03](./tests/app/FTN_01_004_03.md): Fly Forward
 
-- FTN_01_004_04: Fly Backwards
+- [FTN_01_004_04](./tests/app/FTN_01_004_04.md): Fly Backwards
 
-- FTN_01_004_05: Fly Left
+- [FTN_01_004_05](./tests/app/FTN_01_004_05.md): Fly Left
 
-- FTN_01_004_06: Fly Right
+- [FTN_01_004_06](./tests/app/FTN_01_004_06.md): Fly Right
 
-- FTN_01_004_07: Fly Left rotation
+- [FTN_01_004_07](./tests/app/FTN_01_004_07.md): Fly Left rotation
 
-- FTN_01_004_08: Fly Right rotation
+- [FTN_01_004_08](./tests/app/FTN_01_004_08.md): Fly Right rotation
 
 ### 1.5 Intelligent flight mode
 
-- FTN_01_005_01: One-button take-off
+- [FTN_01_005_01](./tests/app/FTN_01_005_01.md): One-button take-off
 
-- FTN_01_005_02: One-touch landing
+- [FTN_01_005_02](./tests/app/FTN_01_005_02.md): One-touch landing
 
-- FTN_01_005_03: Lift one's hand to land
+- [FTN_01_005_03](./tests/app/FTN_01_005_03.md): Lift one's hand to land
 
-- FTN_01_005_04: One-button surround mode
+- [FTN_01_005_04](./tests/app/FTN_01_005_04.md): One-button surround mode
 
-- FTN_01_005_05: Jetting mode
+- [FTN_01_005_05](./tests/app/FTN_01_005_05.md): Jetting mode
 
-- FTN_01_005_06: Omnidirectional roll mode
+- [FTN_01_005_06](./tests/app/FTN_01_005_06.md): Omnidirectional roll mode
 
-- FTN_01_005_07: One-click fly away mode
+- [FTN_01_005_07](./tests/app/FTN_01_005_07.md): One-click fly away mode
 
-- FTN_01_005_08: One-button 360 mode
+- [FTN_01_005_08](./tests/app/FTN_01_005_08.md): One-button 360 mode
 
-- FTN_01_005_09: Bounce mode
+- [FTN_01_005_09](./tests/app/FTN_01_005_09.md): Bounce mode
 
 ### 1.6 Battery charging
 
